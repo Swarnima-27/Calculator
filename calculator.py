@@ -30,7 +30,7 @@ ans=input()
 if ans=='y':
     calculatorz(calculator)
 else:
-    print('shut down')
+    print('shut down and exiting')
 
     
         
